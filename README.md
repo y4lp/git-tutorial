@@ -1,4 +1,5 @@
 # Git tutorial
 
-- Feadture-A
-- fix-B
+- Feature-A
+- Fix-B
+- Feature-C
